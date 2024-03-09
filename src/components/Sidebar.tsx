@@ -140,7 +140,7 @@ function Sidebar() {
             <div className="my-8 mx-auto p-8 text-center">
               <div className=" mb-4 flex flex-col items-center">
                 <img
-                  className="w-4/5 h-4/5 rounded-full object-contain"
+                  className="w-2/4 h-2/4 rounded-full object-contain"
                   src="https://media.licdn.com/dms/image/D5603AQHPsvfQreBmyw/profile-displayphoto-shrink_400_400/0/1670098439955?e=1714608000&v=beta&t=U9hRLktgletKCP5_7Cc8oTqrQlKseEAciy6Hq6j8uOc"
                   alt="pfp"
                 />

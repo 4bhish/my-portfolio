@@ -7,7 +7,7 @@ import React from "react";
 
 
 
-function projectsLayout({
+function ProjectsLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
@@ -59,4 +59,4 @@ function projectsLayout({
   );
 }
 
-export default projectsLayout;
+export default ProjectsLayout;

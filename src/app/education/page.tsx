@@ -33,7 +33,7 @@ function Education() {
   };
 
   return (
-    <div className="m-12 lg:m-8 max-w-screen-md">
+    <div className=" m-12 lg:m-8 max-w-screen-md">
       <div className="lg:mt-36">
         <p className="font-thin  text-sm tracking-widest">EDUCATION</p>
         <h2 className="font-bold text-lg mt-6 tracking-widest">EDUCATION</h2>

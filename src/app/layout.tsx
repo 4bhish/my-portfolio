@@ -20,7 +20,7 @@ export default function RootLayout({
     <html lang="en">
       <body className="lg:flex">
         <Sidebar />
-        <div className="lg:w-4/5 lg:mt-0 ">{children}</div>
+        <div className="lg:w-4/5 w-full lg:mt-0 ">{children}</div>
       </body>
     </html>
   );

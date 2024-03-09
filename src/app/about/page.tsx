@@ -10,16 +10,16 @@ function About() {
       </div>
       <section className="lg:mt-10 mt-5  lg:block  ">
         <article>
-          <span className="font-bold">Hi I&apos;m Abhishek Hadimani,</span> a
+          <span className="font-bold">Hi I'm Abhishek Hadimani,</span> a
           passionate web developer with a love for crafting innovative online
           experiences. My journey into the world of web development began with a
           curiosity for how things work and a desire to bring ideas to life in
-          the digital space. Over the years, I&apos;ve honed my skills in front-end
+          the digital space. Over the years, I've honed my skills in front-end
           and back-end development, mastering languages like HTML, CSS,
           JavaScript, and frameworks like React and Node.js along the way.
         </article>
         <article className="mt-6">
-          Beyond the code, I&apos;m a firm believer in the power of collaboration and
+          Beyond the code, I'm a firm believer in the power of collaboration and
           communication. I love working closely with clients to understand their
           unique needs and vision, transforming their ideas into digital
           masterpieces that resonate with their audience and drive meaningful

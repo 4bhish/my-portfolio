@@ -104,7 +104,7 @@ function Sidebar() {
           </div>
         </div>
       </div>
-      <div className={`relative ${mobileMenuOpen && 'hidden'}`}>
+      <div className={`relative ${mobileMenuOpen && 'hidden'}  lg:hidden`}>
         <button
           type="button"
           className=" rounded-md z-50  fixed right-0 top-0 p-8"

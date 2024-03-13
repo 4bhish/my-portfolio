@@ -14,9 +14,9 @@ function About() {
           passionate web developer with a love for crafting innovative online
           experiences. My journey into the world of web development began with a
           curiosity for how things work and a desire to bring ideas to life in
-          the digital space. Over the years, I've honed my skills in front-end
-          and back-end development, mastering languages like HTML, CSS,
-          JavaScript, and frameworks like React and Node.js along the way.
+          the digital space. Over the years, I've honed my skills in Frontend
+          Development, mastering languages like HTML, CSS,
+          JavaScript, and frameworks like React , Node.js and tailwindCSS along the way.
         </article>
         <article className="mt-6">
           Beyond the code, I'm a firm believer in the power of collaboration and

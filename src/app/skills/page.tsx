@@ -57,7 +57,7 @@ function Skills() {
         </div>
         <div className="lg:w-4/5 mb-5 lg:mb:0 ">
           <div className="flex justify-between">
-            <p className="font-medium text-[#2fa499]">React</p>
+            <p className="font-medium text-[#2fa499]">React.JS</p>
             <p className="font-medium text-[#2fa499]">75%</p>
           </div>
           <div className="w-full h-2 bg-gray-200 rounded-xl overflow-hidden">

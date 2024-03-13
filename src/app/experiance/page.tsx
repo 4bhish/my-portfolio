@@ -27,22 +27,17 @@ function Experiance() {
                   </a>
                 </span>{" "}
                 <span className="text-[#a7a8ab] text-base ">
-                  Jan-2024 - April-2024
+                  Dec-2023 - Feb-2024
                 </span>
               </h2>
               <article className="mt-6">
                 <li className="mt-2">
-                  During my four-month internship at BAWS.in as a React
-                  Developer, I actively contributed to the development of
-                  responsive and dynamic user interfaces for web applications.
+                During my three months as intern at Baws.in I gained the experience of working in a production based environment. I extensively contributed in logic build and adding functionality to the product. One of the functionality I had helped with is building Push Notification feature using Firebase Cloud Messaging (F. C. M)
                 </li>   
                 <li className="mt-2">
                   Collaborating closely with the development team, I engaged in
                   the entire software development lifecycle with version control
-                  of Git and Github, from requirement analysis to implementation
-                  and testing. I adeptly utilized React.js to build frontend
-                  components while ensuring seamless integration of firebase for
-                  database management.
+                  of Git and Github. 
                 </li>
               </article>
             </div>

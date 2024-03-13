@@ -17,7 +17,7 @@ export default function Home() {
             Creating digital experiences through code
           </p>
           <button className="text-white mt-8 p-3 border-white border-2">
-            <a href="/sd.jpg" download>
+            <a href="/abhishek_resume.pdf" download>
               Download CV
             </a>{" "}
           </button>

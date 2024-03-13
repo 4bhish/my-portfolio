@@ -5,30 +5,29 @@ function Blog() {
   const blogsArr = [
     {
       id: 1,
-      img: "https://preview.colorlib.com/theme/jackson/images/blog-1.jpg.webp",
-      date: "APRIL 14, 2018",
-      category: "WEB DESIGN",
-      title: "RENOVATING NATIONAL GALLERY",
+      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png",
+      date: "JAN 10, 2024",
+      category: "VERSION CONTROL",
+      title: "Introduction to Version Control with Git",
       description:
-        " Searticlearated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+        "Learn the basics of version control using Git, a widely used distributed version control system",
     },
     {
       id: 2,
-      img: "https://preview.colorlib.com/theme/jackson/images/blog-1.jpg.webp",
-      date: "APRIL 14, 2018",
-      category: "WEB DESIGN",
-      title: "RENOVATING NATIONAL GALLERY",
-      description:
-        " Searticlearated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+      img: "https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/pwa.png",
+      date: "NOV 14, 2023",
+      category: "WEB DEVELOPMENT",
+      title: "Progressive Web Apps",
+      description:"A progressive web application, or progressive web app, is a type of application software delivered through the web",
     },
     {
       id: 3,
-      img: "https://preview.colorlib.com/theme/jackson/images/blog-1.jpg.webp",
-      date: "APRIL 14, 2018",
-      category: "WEB DESIGN",
-      title: "RENOVATING NATIONAL GALLERY",
+      img: "https://yt3.googleusercontent.com/GsP5Yvc5jOSop4SJf_75wdOYaEbO-7ZyYhnARodAGRnEMh-OQjGPGzUz2ZtzsHPtqFyHGvmbEtI=s900-c-k-c0x00ffffff-no-rj",
+      date: "OCT 25, 2023",
+      category: "CLOUD BACKEND",
+      title: "Firebase Cloud Messaging (FCM)",
       description:
-        " Searticlearated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+        "Firebase Cloud Messaging (FCM) is a cross-platform messaging solution that lets you reliably send messages at no cost.",
     },
   ];
   return (
@@ -46,13 +45,13 @@ function Blog() {
                   <img
                     src={blog.img}
                     alt={blog.title}
-                    className="w-full h-auto object-cover transform hover:scale-110 transition duration-300"
+                    className="w-4/5 h-auto object-contain transform hover:scale-110 transition duration-300"
                   />
                 </div>
                 <div className="mt-2 flex justify-around gap-4 text-xs text-[#999999]">
                   {blog.date} | {blog.category} |{" "}
                 </div>
-                <h2 className=" mt-2">{blog.title}</h2>
+                <h2 className="font-semibold mt-2">{blog.title}</h2>
                 <article className="text-sm mt-2 leading-5	">
                   {blog.description}
                 </article>

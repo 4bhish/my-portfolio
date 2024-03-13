@@ -1,4 +1,5 @@
-import { Cake, Coins } from 'lucide-react';
+import { Cake, Coins, MoveRight } from 'lucide-react';
+import Link from 'next/link';
 import React from 'react';
 
 function Vanilla() {
@@ -11,8 +12,9 @@ function Vanilla() {
         />
         <div className="absolute lg:bg-blue-500 inset-0 flex items-center justify-center opacity-100 lg:opacity-0 lg:hover:opacity-100 transition-opacity duration-300">
           <div className="absolute top-0 left-0  m-4">
-            <p className="text-white text-md ">Cash Register App</p>
+            <p className="text-white text-md "><Link target='_blank' href={"https://returncashapp.netlify.app/"}>Cash Register App<MoveRight /></Link></p>
             <Coins className="text-white mt-2" />
+            <p className='text-white mt-2'><Link target='_blank' href={"https://github.com/4bhish/cash-register-app"}>Source Code</Link></p>
           </div>
         </div>
       </div>
@@ -23,9 +25,10 @@ function Vanilla() {
         />
         <div className="absolute lg:bg-blue-500 inset-0 flex items-center justify-center opacity-100 lg:opacity-0 lg:hover:opacity-100 transition-opacity duration-300">
           <div className="absolute top-0 left-0  m-4">
-            <p className="text-white text-md ">Palindrome Birthday</p>
+            <p className="text-white text-md "><Link target='_blank' href={"https://palindromebirthdayweb.netlify.app/"}>Palindrome Birthday <MoveRight /></Link></p>
             
             <Cake className="text-white mt-2" />
+            <p className="text-white mt-2"><Link target='_blank' href={"https://github.com/4bhish/palindrome-birthday-app"}>Source Code</Link></p>
           </div>
         </div>
       </div>

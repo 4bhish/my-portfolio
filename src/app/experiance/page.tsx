@@ -5,8 +5,8 @@ function Experiance() {
   return (
     <div className="m-12 lg:m-8 max-w-screen-md ">
       <div className="lg:mt-36">
-        <p className="font-thin  text-sm tracking-widest">EXPERIANCE</p>
-        <h2 className="font-bold text-lg mt-6 tracking-widest">WORK EXPERIANCE</h2>
+        <p className="font-thin  text-sm tracking-widest">EXPERIENCE</p>
+        <h2 className="font-bold text-lg mt-6 tracking-widest">WORK EXPERIENCE</h2>
       </div>
       <section  className="lg:mt-10 lg:block">
         <div className="w-full  lg:flex gap-4 justify-evenly">

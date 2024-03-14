@@ -35,8 +35,8 @@ function Sidebar() {
     },
     {
       id: 6,
-      name: "experiance",
-      href: "/experiance ",
+      name: "experience",
+      href: "/experience ",
     },
     {
       id: 7,

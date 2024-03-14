@@ -1,7 +1,7 @@
 import { PencilLine, StepBack } from "lucide-react";
 import React from "react";
 
-function Experiance() {
+function Experience() {
   return (
     <div className="m-12 lg:m-8 max-w-screen-md ">
       <div className="lg:mt-36">
@@ -48,4 +48,4 @@ function Experiance() {
   );
 }
 
-export default Experiance;
+export default Experience;

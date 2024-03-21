@@ -14,7 +14,7 @@ function Contact() {
             <div className="h-28 w-28 bg-[#f2f3f7] flex items-center justify-center">
               <Linkedin size={48} className="text-blue-500 text-sm " />
             </div>
-            <p className="text-blue-500 font-semibold cursor-pointer"><a target="_blank" href="https://www.linkedin.com/in/abhishek-hadimani/">LinkedIn/Abhishek</a></p>
+            <p className="text-blue-500 font-semibold cursor-pointer"><a target="_blank" href="https://www.linkedin.com/in/abhishekhadimani07">LinkedIn/Abhishek</a></p>
           </div>
           <div className="flex items-center gap-6"  >
             <div className="h-28 w-28 bg-[#f2f3f7] flex items-center justify-center">

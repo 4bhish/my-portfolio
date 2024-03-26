@@ -18,13 +18,7 @@ function Experience() {
               <h2 className="text-2xl mt-2 ">
                 <span className="font-semibold">
                   Frontend Developer at{" "}
-                  <a
-                    target="_blank"
-                    href="http://www.baws.in"
-                    className="cursor-pointer text-[#2c98f0]"
-                  >
-                    BAWS.in
-                  </a>
+                  Online Book Library
                 </span>{" "}
                 <span className="text-[#a7a8ab] text-base ">
                   Dec-2023 - Feb-2024
@@ -32,7 +26,7 @@ function Experience() {
               </h2>
               <article className="mt-6">
                 <li className="mt-2">
-                During my three months as intern at Baws.in I gained the experience of working in a production based environment. I extensively contributed in logic build and adding functionality to the product. One of the functionality I had helped with is building Push Notification feature using Firebase Cloud Messaging (F. C. M)
+                During my three months as intern I gained the experience of working in a production based environment. I extensively contributed in logic build and adding functionality to the product. One of the functionality I had helped with is building Push Notification feature using Firebase Cloud Messaging (F. C. M)
                 </li>   
                 <li className="mt-2">
                   Collaborating closely with the development team, I engaged in

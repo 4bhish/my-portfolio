@@ -6,6 +6,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import React, { useState } from "react";
 
+
 function Sidebar() {
   const navOptions = [
     {
@@ -61,7 +62,7 @@ function Sidebar() {
           <div className=" mb-4 flex flex-col items-center">
             <img
               className="w-4/5 h-4/5 rounded-full object-contain"
-              src="https://media.licdn.com/dms/image/D5603AQHPsvfQreBmyw/profile-displayphoto-shrink_400_400/0/1670098439955?e=1714608000&v=beta&t=U9hRLktgletKCP5_7Cc8oTqrQlKseEAciy6Hq6j8uOc"
+              src="/profilePic.png"
               alt="pfp"
             />
             <h3 className="pt-6 pb-3 text-2xl font-semibold">
@@ -141,7 +142,7 @@ function Sidebar() {
               <div className=" mb-4 flex flex-col items-center">
                 <img
                   className="w-2/4 h-2/4 rounded-full object-contain"
-                  src="https://media.licdn.com/dms/image/D5603AQHPsvfQreBmyw/profile-displayphoto-shrink_400_400/0/1670098439955?e=1714608000&v=beta&t=U9hRLktgletKCP5_7Cc8oTqrQlKseEAciy6Hq6j8uOc"
+                  src='/profilePic.png'
                   alt="pfp"
                 />
                 <h3 className="pt-6 pb-3 text-2xl font-semibold">
